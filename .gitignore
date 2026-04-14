@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+dist/
+.next/
+
+# Swift
+.build/
+DerivedData/
+
+# Android
+.gradle/
+local.properties
+*.iml
+build/
